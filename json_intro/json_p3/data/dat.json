@@ -1,0 +1,14 @@
+{
+	"perguntas": [
+		{
+			"pergunta": "Qual é a capital do Brasil?",
+			"opcoes": ["a) São Paulo", "b) Brasília", "c)Rio de Janeiro", "d) Salvador", "e) Belo Horizonte"],
+			"resposta": "b)"
+		},
+		{
+			"pergunta": "Quem pintou a Mona Lisa",
+			"opcoes": ["a) Leonardo Da Vinci", "b) Vincent Va Gogh", "c) Pablo Picasso", "d) Michelangelo", "e) Salvador Dalí"],
+			"resposta": "a)"
+		}
+	]
+}
